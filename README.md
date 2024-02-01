@@ -3,4 +3,3 @@ in this github link. once the program start to run it will show the press any ke
 those changes will be reflected in the console. after sometime press any key and press enter and it will show the continues changes and modification of the on directory within the 
 scheduled internal time period.
 if it show any exception just simply click run or continue button it run again.
-![screenshot of the output](C:\Users\bhabi\Pictures\Screenshots\Screenshot (68).png)
